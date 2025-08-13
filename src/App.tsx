@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { RouletteWheel } from './components/RouletteWheel';
 import { RestaurantForm } from './components/RestaurantForm';
 import { FavoritesList } from './components/FavoritesList';

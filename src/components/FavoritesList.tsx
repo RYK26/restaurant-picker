@@ -52,7 +52,6 @@ export const FavoritesList: React.FC<FavoritesListProps> = ({ favorites, onRemov
             </div>
             
             <button
-              onClick={() => onRemove(restaurant.id)}
               onClick={(e) => {
                 e.stopPropagation();
                 onRemove(restaurant.id);
