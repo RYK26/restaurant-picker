@@ -108,7 +108,9 @@ This project is licensed under the **MIT License** — feel free to use and adap
 ---
 
 ## 📷 Screenshots
-*(Add images or GIFs here to showcase the roulette wheel in action)*
+<img width="857" height="757" alt="image" src="https://github.com/user-attachments/assets/056a1bb7-bca6-4cbd-9287-12b67bf517d4" />
+<img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/d79d5fde-95ca-487a-aa15-cecf04b77b0e" />
+
 
 ---
 
